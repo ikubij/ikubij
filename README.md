@@ -37,6 +37,6 @@
 <br />
 
 
-[website]: https://codeSTACKr.com
+[website]: https://ikubij.github.io
 [linkedin]: https://www.linkedin.com/in/james-ikubi-287aaa154/
 
