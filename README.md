@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## I'm a Full stack Web Developer!
-- 🔭 I’m currently working with VueJs and Laravel
+- 🔭 I’m currently working with VueJs and Laravel & || Javascript, PHP and jQuery
 - 🌱 I’m currently learning Angular
 - 🥅 Goals: Contribute more to Open Source projects and stack overflow 🙂
 - 📫 How to reach me: Links below
