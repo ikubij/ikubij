@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 ## I'm a Full stack Web Developer!
-- 🔭 I’m currently working with VueJs and Laravel & || Javascript, PHP and jQuery
-- 🌱 I’m currently learning Angular
+- 🔭 I’m currently working with Angular, Typescript, Bootstrap, Node JS, Express JS, Git, Docker, Figma and Kubernetes.
+- 🧰 I have worked with VueJS, Laravel, Vanilla PHP, Jquery, Tailwind CSS, Material, Web sockets, etc.
+- 🌱 I’m currently learning React Native.
 - 🥅 Goals: Contribute more to Open Source projects and stack overflow 🙂
 - 📫 How to reach me: Links below
-- ⚡ Fun fact: I love gaming and music 😁
+- ⚡ Fun fact: I love football, driving, gaming and music 😁
 
 ### Connect with me:
 
